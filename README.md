@@ -1,1 +1,0 @@
-# vApp-Sample-06

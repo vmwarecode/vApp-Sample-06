@@ -1,0 +1,547 @@
+{
+   "dashboards": [{
+      "adapterName": "ehc-platform-mp1",
+      "autoswitchEnabled": false,
+      "columnCount": 1,
+      "columnProportion": "1",
+      "creationTime": 1599656504025,
+      "dashboardNavigations": {},
+      "description": "",
+      "disabled": false,
+      "gridsterMaxColumns": 12,
+      "hidden": false,
+      "homeTab": false,
+      "id": "51835275-78fa-4a5d-b7e8-3f3785831e7f",
+      "importAttempts": 0,
+      "importComplete": true,
+      "lastUpdateTime": 1599691792627,
+      "lastUpdateUserId": "f5405742-d426-455b-8afa-b2cacc484a6d",
+      "locked": false,
+      "name": "vPod Overview 3",
+      "rank": 0,
+      "shared": false,
+      "states": [],
+      "temporary": false,
+      "userId": "f5405742-d426-455b-8afa-b2cacc484a6d",
+      "widgetInteractions": [
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "1f88bb6f-ded7-425e-b02f-5dba23906703",
+            "widgetIdReceiver": "d81bbabe-e2df-4725-a6af-f3705bad3f50"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "1f88bb6f-ded7-425e-b02f-5dba23906703",
+            "widgetIdReceiver": "bf43402a-c2e7-4450-b0b3-8949410d21d7"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "d81bbabe-e2df-4725-a6af-f3705bad3f50",
+            "widgetIdReceiver": "11bc68b4-066c-4715-910a-421012136882"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "bf43402a-c2e7-4450-b0b3-8949410d21d7",
+            "widgetIdReceiver": "d0fa68ad-ed08-4dd8-b8d4-d9e071e0ed48"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "1f88bb6f-ded7-425e-b02f-5dba23906703",
+            "widgetIdReceiver": "a92151e6-dc53-48e7-8c7b-28abff09492a"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "dbb0ea71-626f-457d-9909-c9095411e46d",
+            "widgetIdReceiver": "d128e086-a904-4fa8-9715-59bcca06da18"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "dbb0ea71-626f-457d-9909-c9095411e46d",
+            "widgetIdReceiver": "cb88030b-2a4a-4dad-8e03-b0198214dcaa"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "dbb0ea71-626f-457d-9909-c9095411e46d",
+            "widgetIdReceiver": "7f1706bf-6f57-4e26-bff4-0864f8679bf1"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "dbb0ea71-626f-457d-9909-c9095411e46d",
+            "widgetIdReceiver": "997a6146-1006-4311-b463-7c91857032d0"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "11bc68b4-066c-4715-910a-421012136882",
+            "widgetIdReceiver": "dbb0ea71-626f-457d-9909-c9095411e46d"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "11bc68b4-066c-4715-910a-421012136882",
+            "widgetIdReceiver": "d128e086-a904-4fa8-9715-59bcca06da18"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "11bc68b4-066c-4715-910a-421012136882",
+            "widgetIdReceiver": "cb88030b-2a4a-4dad-8e03-b0198214dcaa"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "11bc68b4-066c-4715-910a-421012136882",
+            "widgetIdReceiver": "7f1706bf-6f57-4e26-bff4-0864f8679bf1"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "11bc68b4-066c-4715-910a-421012136882",
+            "widgetIdReceiver": "997a6146-1006-4311-b463-7c91857032d0"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "d0fa68ad-ed08-4dd8-b8d4-d9e071e0ed48",
+            "widgetIdReceiver": "dbb0ea71-626f-457d-9909-c9095411e46d"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "d0fa68ad-ed08-4dd8-b8d4-d9e071e0ed48",
+            "widgetIdReceiver": "d128e086-a904-4fa8-9715-59bcca06da18"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "d0fa68ad-ed08-4dd8-b8d4-d9e071e0ed48",
+            "widgetIdReceiver": "cb88030b-2a4a-4dad-8e03-b0198214dcaa"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "d0fa68ad-ed08-4dd8-b8d4-d9e071e0ed48",
+            "widgetIdReceiver": "7f1706bf-6f57-4e26-bff4-0864f8679bf1"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "d0fa68ad-ed08-4dd8-b8d4-d9e071e0ed48",
+            "widgetIdReceiver": "997a6146-1006-4311-b463-7c91857032d0"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "a92151e6-dc53-48e7-8c7b-28abff09492a",
+            "widgetIdReceiver": "dbb0ea71-626f-457d-9909-c9095411e46d"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "a92151e6-dc53-48e7-8c7b-28abff09492a",
+            "widgetIdReceiver": "d128e086-a904-4fa8-9715-59bcca06da18"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "a92151e6-dc53-48e7-8c7b-28abff09492a",
+            "widgetIdReceiver": "cb88030b-2a4a-4dad-8e03-b0198214dcaa"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "a92151e6-dc53-48e7-8c7b-28abff09492a",
+            "widgetIdReceiver": "7f1706bf-6f57-4e26-bff4-0864f8679bf1"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "a92151e6-dc53-48e7-8c7b-28abff09492a",
+            "widgetIdReceiver": "997a6146-1006-4311-b463-7c91857032d0"
+         }
+      ],
+      "widgets": [
+         {
+            "collapsed": false,
+            "config": {
+               "additionalColumns": [],
+               "customFilter": {
+                  "excludedResources": null,
+                  "filter": [],
+                  "includedResources": null
+               },
+               "depth": 1,
+               "filterMode": "customFilter",
+               "mode": "all",
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "relationshipMode": {"relationshipMode": 0},
+               "resource": [],
+               "selectFirstRow": {"selectFirstRow": true},
+               "selfProvider": {"selfProvider": false},
+               "tagFilter": {
+                  "path": ["/source/kind/kind:resourceKind:id:0_::_"],
+                  "value": {
+                     "adapterInstance": [],
+                     "adapterKind": [],
+                     "bus": [],
+                     "collector": [],
+                     "day": [],
+                     "exclaim": false,
+                     "healthRange": [],
+                     "kind": ["resourceKind:id:0_::_"],
+                     "maintenanceSchedule": [],
+                     "state": [],
+                     "status": [],
+                     "tag": [],
+                     "tier": []
+                  }
+               },
+               "title": "vPods"
+            },
+            "gridsterCoords": {
+               "h": 9,
+               "w": 2,
+               "x": 1,
+               "y": 1
+            },
+            "height": 496,
+            "id": "1f88bb6f-ded7-425e-b02f-5dba23906703",
+            "states": [{
+               "key": "permResGrid_widget_51835275-78fa-4a5d-b7e8-3f3785831e7f_1f88bb6f-ded7-425e-b02f-5dba23906703",
+               "value": "o%3Acolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah4%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah5%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah6%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah7%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah8%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah9%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah10%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah11%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah12%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah13%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah14%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah15%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah16%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253AresourceRating%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah18%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah19%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah20%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah21%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah22%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah23%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah24%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah25%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah26%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah27%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah28%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah29%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah30%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah31%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah32%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah33%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah34%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah35%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah36%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah37%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah38%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah39%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah40%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah41%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah42%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah43%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah44%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah45%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah46%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah47%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100"
+            }],
+            "title": "vPods",
+            "type": "ResourceList"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "autoZoom": {"autoSize": false},
+               "customFilter": {
+                  "excludedResources": null,
+                  "filter": [],
+                  "includedResources": null
+               },
+               "filterMode": "tagPicker",
+               "nodeSize": null,
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "resourceId": null,
+               "resourceName": null,
+               "selfProvider": {"selfProvider": false},
+               "tagFilter": null,
+               "title": "Associations"
+            },
+            "gridsterCoords": {
+               "h": 8,
+               "w": 4,
+               "x": 5,
+               "y": 2
+            },
+            "height": 439,
+            "id": "11bc68b4-066c-4715-910a-421012136882",
+            "states": [{
+               "key": "permResourceRelationship_widget_51835275-78fa-4a5d-b7e8-3f3785831e7f_11bc68b4-066c-4715-910a-421012136882",
+               "value": "o%3A"
+            }],
+            "title": "Associations",
+            "type": "ResourceRelationship"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "badge": [
+                  {
+                     "badgeKey": "health",
+                     "badgeName": "Health",
+                     "label": null,
+                     "show": true
+                  },
+                  {
+                     "badgeKey": "risk",
+                     "badgeName": "Risk",
+                     "label": null,
+                     "show": true
+                  },
+                  {
+                     "badgeKey": "efficiency",
+                     "badgeName": "Efficiency",
+                     "label": null,
+                     "show": true
+                  }
+               ],
+               "custom": [],
+               "mode": "resource",
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "selfProvider": {"selfProvider": false},
+               "title": "Environment"
+            },
+            "gridsterCoords": {
+               "h": 6,
+               "w": 4,
+               "x": 1,
+               "y": 10
+            },
+            "height": 323,
+            "id": "dbb0ea71-626f-457d-9909-c9095411e46d",
+            "states": [{
+               "key": "permSkittlesView_widget_51835275-78fa-4a5d-b7e8-3f3785831e7f_dbb0ea71-626f-457d-9909-c9095411e46d",
+               "value": "o%3A"
+            }],
+            "title": "Environment",
+            "type": "Skittles"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "resource": null,
+               "selfProvider": {"selfProvider": false},
+               "title": "Capacity"
+            },
+            "gridsterCoords": {
+               "h": 6,
+               "w": 4,
+               "x": 5,
+               "y": 10
+            },
+            "height": 323,
+            "id": "d128e086-a904-4fa8-9715-59bcca06da18",
+            "title": "Capacity",
+            "type": "IntSummaryCapacity"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "resource": null,
+               "selfProvider": {"selfProvider": false},
+               "title": "Usage"
+            },
+            "gridsterCoords": {
+               "h": 6,
+               "w": 4,
+               "x": 9,
+               "y": 10
+            },
+            "height": 323,
+            "id": "cb88030b-2a4a-4dad-8e03-b0198214dcaa",
+            "title": "Usage",
+            "type": "IntSummaryWorkload"
+         },
+         {
+            "collapsed": true,
+            "config": {
+               "additionalColumns": [{
+                  "boxLabel": "Host",
+                  "metricKey": "summary|parentHost",
+                  "metricName": "Summary|Parent Host",
+                  "resourceKindId": "resourceKind:id:1_::_"
+               }],
+               "customFilter": {
+                  "excludedResources": null,
+                  "filter": [{
+                     "filterTypes": [{
+                        "condition": "CONTAINS",
+                        "filterType": "resourceName",
+                        "resourceName": "vESXi031"
+                     }],
+                     "resourceKind": "002006VMWAREVirtualMachine"
+                  }],
+                  "includedResources": null
+               },
+               "depth": 1,
+               "filterMode": "customFilter",
+               "mode": "all",
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "relationshipMode": {"relationshipMode": -1},
+               "resource": [],
+               "selectFirstRow": {"selectFirstRow": true},
+               "selfProvider": {"selfProvider": false},
+               "tagFilter": null,
+               "title": "Site B"
+            },
+            "gridsterCoords": {
+               "h": 1,
+               "w": 4,
+               "x": 9,
+               "y": 1
+            },
+            "height": 153,
+            "id": "bf43402a-c2e7-4450-b0b3-8949410d21d7",
+            "states": [{
+               "key": "permResGrid_widget_51835275-78fa-4a5d-b7e8-3f3785831e7f_bf43402a-c2e7-4450-b0b3-8949410d21d7",
+               "value": "o%3Acolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah2%25255Ewidth%25253Dn%2525253A255.5556640625%255Eo%25253Aid%25253Ds%2525253Ah3%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah4%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah5%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah6%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah7%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah8%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah9%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah10%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah11%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah12%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah13%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah14%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah15%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah16%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253AresourceRating%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah18%25255Ehidden%25253Db%2525253A0%25255Ewidth%25253Dn%2525253A386.666748046875%255Eo%25253Aid%25253Ds%2525253Ah19%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah20%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah21%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah22%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah23%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah24%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah25%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah26%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah27%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah28%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah29%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah30%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah31%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah32%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah33%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah34%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah35%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah36%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah37%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah38%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah39%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah40%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah41%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah42%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah43%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah44%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah45%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah46%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah47%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100"
+            }],
+            "title": "Site B",
+            "type": "ResourceList"
+         },
+         {
+            "collapsed": true,
+            "config": {
+               "additionalColumns": [{
+                  "boxLabel": "Host",
+                  "metricKey": "summary|parentHost",
+                  "metricName": "Summary|Parent Host",
+                  "resourceKindId": "resourceKind:id:1_::_"
+               }],
+               "customFilter": {
+                  "excludedResources": null,
+                  "filter": [{
+                     "filterTypes": [{
+                        "condition": "CONTAINS",
+                        "filterType": "resourceName",
+                        "resourceName": "vESXi011"
+                     }],
+                     "resourceKind": "002006VMWAREVirtualMachine"
+                  }],
+                  "includedResources": null
+               },
+               "depth": 1,
+               "filterMode": "customFilter",
+               "mode": "all",
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "relationshipMode": {"relationshipMode": -1},
+               "resource": [],
+               "selectFirstRow": {"selectFirstRow": true},
+               "selfProvider": {"selfProvider": false},
+               "tagFilter": null,
+               "title": "Site A"
+            },
+            "gridsterCoords": {
+               "h": 1,
+               "w": 4,
+               "x": 5,
+               "y": 1
+            },
+            "height": 153,
+            "id": "d81bbabe-e2df-4725-a6af-f3705bad3f50",
+            "states": [{
+               "key": "permResGrid_widget_51835275-78fa-4a5d-b7e8-3f3785831e7f_d81bbabe-e2df-4725-a6af-f3705bad3f50",
+               "value": "o%3Acolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah2%25255Ewidth%25253Dn%2525253A279.11114501953125%255Eo%25253Aid%25253Ds%2525253Ah3%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah4%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah5%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah6%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah7%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah8%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah9%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah10%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah11%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah12%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah13%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah14%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah15%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah16%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253AresourceRating%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah18%25255Ehidden%25253Db%2525253A0%25255Ewidth%25253Dn%2525253A349.11114501953125%255Eo%25253Aid%25253Ds%2525253Ah19%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah20%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah21%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah22%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah23%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah24%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah25%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah26%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah27%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah28%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah29%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah30%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah31%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah32%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah33%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah34%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah35%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah36%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah37%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah38%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah39%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah40%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah41%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah42%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah43%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah44%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah45%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah46%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah47%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100"
+            }],
+            "title": "Site A",
+            "type": "ResourceList"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "additionalColumns": [{
+                  "boxLabel": "Host",
+                  "metricKey": "summary|parentHost",
+                  "metricName": "Summary|Parent Host",
+                  "resourceKindId": "resourceKind:id:1_::_"
+               }],
+               "customFilter": {
+                  "excludedResources": null,
+                  "filter": [],
+                  "includedResources": null
+               },
+               "depth": 1,
+               "filterMode": "tagPicker",
+               "mode": "all",
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "relationshipMode": {"relationshipMode": -1},
+               "resource": [],
+               "selectFirstRow": {"selectFirstRow": false},
+               "selfProvider": {"selfProvider": false},
+               "tagFilter": null,
+               "title": "VMs"
+            },
+            "gridsterCoords": {
+               "h": 9,
+               "w": 2,
+               "x": 3,
+               "y": 1
+            },
+            "height": 496,
+            "id": "a92151e6-dc53-48e7-8c7b-28abff09492a",
+            "states": [{
+               "key": "permResGrid_widget_51835275-78fa-4a5d-b7e8-3f3785831e7f_a92151e6-dc53-48e7-8c7b-28abff09492a",
+               "value": "o%3Acolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah4%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah5%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah6%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah7%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah8%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah9%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah10%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah11%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah12%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah13%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah14%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah15%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah16%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253AresourceRating%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah18%25255Ehidden%25253Db%2525253A0%25255Ewidth%25253Dn%2525253A301.222412109375%255Eo%25253Aid%25253Ds%2525253Ah19%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah20%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah21%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah22%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah23%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah24%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah25%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah26%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah27%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah28%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah29%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah30%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah31%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah32%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah33%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah34%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah35%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah36%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah37%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah38%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah39%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah40%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah41%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah42%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah43%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah44%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah45%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah46%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah47%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100"
+            }],
+            "title": "VMs",
+            "type": "ResourceList"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "autoZoom": {"autoSize": false},
+               "customFilter": {
+                  "excludedResources": null,
+                  "filter": [],
+                  "includedResources": null
+               },
+               "filterMode": "tagPicker",
+               "nodeSize": null,
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "resourceId": null,
+               "resourceName": null,
+               "selfProvider": {"selfProvider": false},
+               "tagFilter": null,
+               "title": "Associations"
+            },
+            "gridsterCoords": {
+               "h": 8,
+               "w": 4,
+               "x": 9,
+               "y": 2
+            },
+            "height": 439,
+            "id": "d0fa68ad-ed08-4dd8-b8d4-d9e071e0ed48",
+            "states": [{
+               "key": "permResourceRelationship_widget_51835275-78fa-4a5d-b7e8-3f3785831e7f_d0fa68ad-ed08-4dd8-b8d4-d9e071e0ed48",
+               "value": "o%3A"
+            }],
+            "title": "Associations",
+            "type": "ResourceRelationship"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "impactedBadge": "",
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "relationshipMode": {"relationshipMode": [
+                  -1,
+                  0
+               ]},
+               "resource": null,
+               "selfProvider": {"selfProvider": false},
+               "title": "Top Alerts",
+               "topIssuesDisplayLimit": 5
+            },
+            "gridsterCoords": {
+               "h": 6,
+               "w": 4,
+               "x": 9,
+               "y": 16
+            },
+            "height": 323,
+            "id": "997a6146-1006-4311-b463-7c91857032d0",
+            "title": "Top Alerts",
+            "type": "ProblemAlertsList"
+         },
+         {
+            "collapsed": false,
+            "config": {},
+            "gridsterCoords": {
+               "h": 6,
+               "w": 8,
+               "x": 1,
+               "y": 16
+            },
+            "height": 323,
+            "id": "7f1706bf-6f57-4e26-bff4-0864f8679bf1",
+            "title": "Scoreboard",
+            "type": "Scoreboard"
+         }
+      ]
+   }],
+   "entries": {"resourceKind": [
+      {
+         "adapterKindKey": "VMWARE",
+         "internalId": "resourceKind:id:0_::_",
+         "resourceKindKey": "VMFolder"
+      },
+      {
+         "adapterKindKey": "VMWARE",
+         "internalId": "resourceKind:id:1_::_",
+         "resourceKindKey": "VirtualMachine"
+      }
+   ]},
+   "uuid": "9d08fcdc-4b4a-47cf-9f19-b4e0f426af4d"
+}
